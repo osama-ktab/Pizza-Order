@@ -1,0 +1,1032 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!--
+    Microsoft ResX Schema
+
+    Version 2.0
+
+    The primary goals of this format is to allow a simple XML format
+    that is mostly human readable. The generation and parsing of the
+    various data types are done through the TypeConverter classes
+    associated with the data types.
+
+    Example:
+
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+
+    There are any number of "resheader" rows that contain simple
+    name/value pairs.
+
+    Each data row contains a name, and value. The row also contains a
+    type or mimetype. Type corresponds to a .NET class that support
+    text/value conversion through the TypeConverter architecture.
+    Classes that don't support this are serialized and stored with the
+    mimetype set.
+
+    The mimetype is used for serialized objects, and tells the
+    ResXResourceReader how to depersist the object. This is currently not
+    extensible. For a given mimetype the value must be set accordingly:
+
+    Note - application/x-microsoft.net.object.binary.base64 is the format
+    that the ResXResourceWriter will generate, however the reader can
+    read any of the formats listed below.
+
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Rage Italic, 24pt, style=Bold</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>265, 9</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="label1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>8, 0, 8, 0</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>241, 40</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Make Your Pizza</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="rdLarge.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="rdLarge.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial, 9.75pt</value>
+  </data>
+  <data name="rdLarge.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 126</value>
+  </data>
+  <data name="rdLarge.Size" type="System.Drawing.Size, System.Drawing">
+    <value>57, 20</value>
+  </data>
+  <data name="rdLarge.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="rdLarge.Text" xml:space="preserve">
+    <value>Large</value>
+  </data>
+  <data name="&gt;&gt;rdLarge.Name" xml:space="preserve">
+    <value>rdLarge</value>
+  </data>
+  <data name="&gt;&gt;rdLarge.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rdLarge.Parent" xml:space="preserve">
+    <value>gbSize</value>
+  </data>
+  <data name="&gt;&gt;rdLarge.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="rdMedum.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="rdMedum.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial, 9.75pt</value>
+  </data>
+  <data name="rdMedum.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 82</value>
+  </data>
+  <data name="rdMedum.Size" type="System.Drawing.Size, System.Drawing">
+    <value>68, 20</value>
+  </data>
+  <data name="rdMedum.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="rdMedum.Text" xml:space="preserve">
+    <value>Medum</value>
+  </data>
+  <data name="&gt;&gt;rdMedum.Name" xml:space="preserve">
+    <value>rdMedum</value>
+  </data>
+  <data name="&gt;&gt;rdMedum.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rdMedum.Parent" xml:space="preserve">
+    <value>gbSize</value>
+  </data>
+  <data name="&gt;&gt;rdMedum.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="rdSmall.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="rdSmall.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial, 9.75pt</value>
+  </data>
+  <data name="rdSmall.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 38</value>
+  </data>
+  <data name="rdSmall.Size" type="System.Drawing.Size, System.Drawing">
+    <value>58, 20</value>
+  </data>
+  <data name="rdSmall.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="rdSmall.Text" xml:space="preserve">
+    <value>Small</value>
+  </data>
+  <data name="&gt;&gt;rdSmall.Name" xml:space="preserve">
+    <value>rdSmall</value>
+  </data>
+  <data name="&gt;&gt;rdSmall.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rdSmall.Parent" xml:space="preserve">
+    <value>gbSize</value>
+  </data>
+  <data name="&gt;&gt;rdSmall.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="gbSize.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe MDL2 Assets, 15.75pt</value>
+  </data>
+  <data name="gbSize.Location" type="System.Drawing.Point, System.Drawing">
+    <value>33, 59</value>
+  </data>
+  <data name="gbSize.Size" type="System.Drawing.Size, System.Drawing">
+    <value>163, 188</value>
+  </data>
+  <data name="gbSize.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="gbSize.Text" xml:space="preserve">
+    <value>Size</value>
+  </data>
+  <data name="&gt;&gt;gbSize.Name" xml:space="preserve">
+    <value>gbSize</value>
+  </data>
+  <data name="&gt;&gt;gbSize.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;gbSize.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;gbSize.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="rdThinkCrust.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="rdThinkCrust.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial, 9.75pt</value>
+  </data>
+  <data name="rdThinkCrust.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 96</value>
+  </data>
+  <data name="rdThinkCrust.Size" type="System.Drawing.Size, System.Drawing">
+    <value>87, 20</value>
+  </data>
+  <data name="rdThinkCrust.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="rdThinkCrust.Text" xml:space="preserve">
+    <value>ThinkCrust</value>
+  </data>
+  <data name="&gt;&gt;rdThinkCrust.Name" xml:space="preserve">
+    <value>rdThinkCrust</value>
+  </data>
+  <data name="&gt;&gt;rdThinkCrust.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rdThinkCrust.Parent" xml:space="preserve">
+    <value>gbCurst</value>
+  </data>
+  <data name="&gt;&gt;rdThinkCrust.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="rdThinCrust.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="rdThinCrust.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial, 9.75pt</value>
+  </data>
+  <data name="rdThinCrust.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 52</value>
+  </data>
+  <data name="rdThinCrust.Size" type="System.Drawing.Size, System.Drawing">
+    <value>80, 20</value>
+  </data>
+  <data name="rdThinCrust.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="rdThinCrust.Text" xml:space="preserve">
+    <value>ThinCrust</value>
+  </data>
+  <data name="&gt;&gt;rdThinCrust.Name" xml:space="preserve">
+    <value>rdThinCrust</value>
+  </data>
+  <data name="&gt;&gt;rdThinCrust.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rdThinCrust.Parent" xml:space="preserve">
+    <value>gbCurst</value>
+  </data>
+  <data name="&gt;&gt;rdThinCrust.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="gbCurst.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe MDL2 Assets, 15.75pt</value>
+  </data>
+  <data name="gbCurst.Location" type="System.Drawing.Point, System.Drawing">
+    <value>33, 263</value>
+  </data>
+  <data name="gbCurst.Size" type="System.Drawing.Size, System.Drawing">
+    <value>163, 148</value>
+  </data>
+  <data name="gbCurst.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="gbCurst.Text" xml:space="preserve">
+    <value>Curst Type</value>
+  </data>
+  <data name="&gt;&gt;gbCurst.Name" xml:space="preserve">
+    <value>gbCurst</value>
+  </data>
+  <data name="&gt;&gt;gbCurst.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;gbCurst.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;gbCurst.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="chkTomatoes.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="chkTomatoes.Location" type="System.Drawing.Point, System.Drawing">
+    <value>31, 126</value>
+  </data>
+  <data name="chkTomatoes.Size" type="System.Drawing.Size, System.Drawing">
+    <value>97, 25</value>
+  </data>
+  <data name="chkTomatoes.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="chkTomatoes.Text" xml:space="preserve">
+    <value>Tomatoes</value>
+  </data>
+  <data name="&gt;&gt;chkTomatoes.Name" xml:space="preserve">
+    <value>chkTomatoes</value>
+  </data>
+  <data name="&gt;&gt;chkTomatoes.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;chkTomatoes.Parent" xml:space="preserve">
+    <value>gbToppings</value>
+  </data>
+  <data name="&gt;&gt;chkTomatoes.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="chkOlives.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="chkOlives.Location" type="System.Drawing.Point, System.Drawing">
+    <value>170, 84</value>
+  </data>
+  <data name="chkOlives.Size" type="System.Drawing.Size, System.Drawing">
+    <value>70, 25</value>
+  </data>
+  <data name="chkOlives.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="chkOlives.Text" xml:space="preserve">
+    <value>Olives</value>
+  </data>
+  <data name="&gt;&gt;chkOlives.Name" xml:space="preserve">
+    <value>chkOlives</value>
+  </data>
+  <data name="&gt;&gt;chkOlives.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;chkOlives.Parent" xml:space="preserve">
+    <value>gbToppings</value>
+  </data>
+  <data name="&gt;&gt;chkOlives.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="chkGreenPeppers.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="chkGreenPeppers.Location" type="System.Drawing.Point, System.Drawing">
+    <value>170, 126</value>
+  </data>
+  <data name="chkGreenPeppers.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="chkGreenPeppers.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="chkGreenPeppers.Text" xml:space="preserve">
+    <value>GreenPeppers</value>
+  </data>
+  <data name="&gt;&gt;chkGreenPeppers.Name" xml:space="preserve">
+    <value>chkGreenPeppers</value>
+  </data>
+  <data name="&gt;&gt;chkGreenPeppers.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;chkGreenPeppers.Parent" xml:space="preserve">
+    <value>gbToppings</value>
+  </data>
+  <data name="&gt;&gt;chkGreenPeppers.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="chkMushrooms.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="chkMushrooms.Location" type="System.Drawing.Point, System.Drawing">
+    <value>31, 84</value>
+  </data>
+  <data name="chkMushrooms.Size" type="System.Drawing.Size, System.Drawing">
+    <value>110, 25</value>
+  </data>
+  <data name="chkMushrooms.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="chkMushrooms.Text" xml:space="preserve">
+    <value>Mushrooms</value>
+  </data>
+  <data name="&gt;&gt;chkMushrooms.Name" xml:space="preserve">
+    <value>chkMushrooms</value>
+  </data>
+  <data name="&gt;&gt;chkMushrooms.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;chkMushrooms.Parent" xml:space="preserve">
+    <value>gbToppings</value>
+  </data>
+  <data name="&gt;&gt;chkMushrooms.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="chkOnion.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="chkOnion.Location" type="System.Drawing.Point, System.Drawing">
+    <value>170, 42</value>
+  </data>
+  <data name="chkOnion.Size" type="System.Drawing.Size, System.Drawing">
+    <value>69, 25</value>
+  </data>
+  <data name="chkOnion.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="chkOnion.Text" xml:space="preserve">
+    <value>Onion</value>
+  </data>
+  <data name="&gt;&gt;chkOnion.Name" xml:space="preserve">
+    <value>chkOnion</value>
+  </data>
+  <data name="&gt;&gt;chkOnion.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;chkOnion.Parent" xml:space="preserve">
+    <value>gbToppings</value>
+  </data>
+  <data name="&gt;&gt;chkOnion.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="chkExtraChees.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="chkExtraChees.Location" type="System.Drawing.Point, System.Drawing">
+    <value>31, 42</value>
+  </data>
+  <data name="chkExtraChees.Size" type="System.Drawing.Size, System.Drawing">
+    <value>106, 25</value>
+  </data>
+  <data name="chkExtraChees.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="chkExtraChees.Text" xml:space="preserve">
+    <value>ExtraChees</value>
+  </data>
+  <data name="&gt;&gt;chkExtraChees.Name" xml:space="preserve">
+    <value>chkExtraChees</value>
+  </data>
+  <data name="&gt;&gt;chkExtraChees.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;chkExtraChees.Parent" xml:space="preserve">
+    <value>gbToppings</value>
+  </data>
+  <data name="&gt;&gt;chkExtraChees.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="gbToppings.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe MDL2 Assets, 15.75pt</value>
+  </data>
+  <data name="gbToppings.Location" type="System.Drawing.Point, System.Drawing">
+    <value>229, 59</value>
+  </data>
+  <data name="gbToppings.Size" type="System.Drawing.Size, System.Drawing">
+    <value>308, 188</value>
+  </data>
+  <data name="gbToppings.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="gbToppings.Text" xml:space="preserve">
+    <value>Toppings</value>
+  </data>
+  <data name="&gt;&gt;gbToppings.Name" xml:space="preserve">
+    <value>gbToppings</value>
+  </data>
+  <data name="&gt;&gt;gbToppings.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;gbToppings.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;gbToppings.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="rdTakeOut.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="rdTakeOut.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial, 9.75pt</value>
+  </data>
+  <data name="rdTakeOut.Location" type="System.Drawing.Point, System.Drawing">
+    <value>170, 52</value>
+  </data>
+  <data name="rdTakeOut.Size" type="System.Drawing.Size, System.Drawing">
+    <value>77, 20</value>
+  </data>
+  <data name="rdTakeOut.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="rdTakeOut.Text" xml:space="preserve">
+    <value>Take Out</value>
+  </data>
+  <data name="&gt;&gt;rdTakeOut.Name" xml:space="preserve">
+    <value>rdTakeOut</value>
+  </data>
+  <data name="&gt;&gt;rdTakeOut.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rdTakeOut.Parent" xml:space="preserve">
+    <value>gbWhereToEat</value>
+  </data>
+  <data name="&gt;&gt;rdTakeOut.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="rdEatIn.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="rdEatIn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial, 9.75pt</value>
+  </data>
+  <data name="rdEatIn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>41, 52</value>
+  </data>
+  <data name="rdEatIn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>59, 20</value>
+  </data>
+  <data name="rdEatIn.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="rdEatIn.Text" xml:space="preserve">
+    <value>Eat In</value>
+  </data>
+  <data name="&gt;&gt;rdEatIn.Name" xml:space="preserve">
+    <value>rdEatIn</value>
+  </data>
+  <data name="&gt;&gt;rdEatIn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rdEatIn.Parent" xml:space="preserve">
+    <value>gbWhereToEat</value>
+  </data>
+  <data name="&gt;&gt;rdEatIn.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="gbWhereToEat.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe MDL2 Assets, 15.75pt</value>
+  </data>
+  <data name="gbWhereToEat.Location" type="System.Drawing.Point, System.Drawing">
+    <value>229, 263</value>
+  </data>
+  <data name="gbWhereToEat.Size" type="System.Drawing.Size, System.Drawing">
+    <value>308, 87</value>
+  </data>
+  <data name="gbWhereToEat.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="gbWhereToEat.Text" xml:space="preserve">
+    <value>WhereToEat</value>
+  </data>
+  <data name="&gt;&gt;gbWhereToEat.Name" xml:space="preserve">
+    <value>gbWhereToEat</value>
+  </data>
+  <data name="&gt;&gt;gbWhereToEat.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;gbWhereToEat.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;gbWhereToEat.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="LaPriceInNumber.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="LaPriceInNumber.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Brush Script MT, 27.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="LaPriceInNumber.Location" type="System.Drawing.Point, System.Drawing">
+    <value>120, 358</value>
+  </data>
+  <data name="LaPriceInNumber.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 46</value>
+  </data>
+  <data name="LaPriceInNumber.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="LaPriceInNumber.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;LaPriceInNumber.Name" xml:space="preserve">
+    <value>LaPriceInNumber</value>
+  </data>
+  <data name="&gt;&gt;LaPriceInNumber.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LaPriceInNumber.Parent" xml:space="preserve">
+    <value>gbOrderSummary</value>
+  </data>
+  <data name="&gt;&gt;LaPriceInNumber.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="LaPriceNumber.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="LaPriceNumber.Location" type="System.Drawing.Point, System.Drawing">
+    <value>116, 337</value>
+  </data>
+  <data name="LaPriceNumber.Size" type="System.Drawing.Size, System.Drawing">
+    <value>0, 18</value>
+  </data>
+  <data name="LaPriceNumber.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;LaPriceNumber.Name" xml:space="preserve">
+    <value>LaPriceNumber</value>
+  </data>
+  <data name="&gt;&gt;LaPriceNumber.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LaPriceNumber.Parent" xml:space="preserve">
+    <value>gbOrderSummary</value>
+  </data>
+  <data name="&gt;&gt;LaPriceNumber.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="LaPrice.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="LaPrice.Location" type="System.Drawing.Point, System.Drawing">
+    <value>22, 319</value>
+  </data>
+  <data name="LaPrice.Size" type="System.Drawing.Size, System.Drawing">
+    <value>85, 18</value>
+  </data>
+  <data name="LaPrice.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="LaPrice.Text" xml:space="preserve">
+    <value> Total Price</value>
+  </data>
+  <data name="&gt;&gt;LaPrice.Name" xml:space="preserve">
+    <value>LaPrice</value>
+  </data>
+  <data name="&gt;&gt;LaPrice.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LaPrice.Parent" xml:space="preserve">
+    <value>gbOrderSummary</value>
+  </data>
+  <data name="&gt;&gt;LaPrice.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="LaToppingsChoosen.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="LaToppingsChoosen.Location" type="System.Drawing.Point, System.Drawing">
+    <value>37, 238</value>
+  </data>
+  <data name="LaToppingsChoosen.Size" type="System.Drawing.Size, System.Drawing">
+    <value>12, 18</value>
+  </data>
+  <data name="LaToppingsChoosen.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="LaToppingsChoosen.Text" xml:space="preserve">
+    <value> </value>
+  </data>
+  <data name="&gt;&gt;LaToppingsChoosen.Name" xml:space="preserve">
+    <value>LaToppingsChoosen</value>
+  </data>
+  <data name="&gt;&gt;LaToppingsChoosen.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LaToppingsChoosen.Parent" xml:space="preserve">
+    <value>gbOrderSummary</value>
+  </data>
+  <data name="&gt;&gt;LaToppingsChoosen.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="LaToppings.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="LaToppings.Location" type="System.Drawing.Point, System.Drawing">
+    <value>22, 204</value>
+  </data>
+  <data name="LaToppings.Size" type="System.Drawing.Size, System.Drawing">
+    <value>83, 18</value>
+  </data>
+  <data name="LaToppings.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="LaToppings.Text" xml:space="preserve">
+    <value>Toppings : </value>
+  </data>
+  <data name="&gt;&gt;LaToppings.Name" xml:space="preserve">
+    <value>LaToppings</value>
+  </data>
+  <data name="&gt;&gt;LaToppings.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LaToppings.Parent" xml:space="preserve">
+    <value>gbOrderSummary</value>
+  </data>
+  <data name="&gt;&gt;LaToppings.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="LaWhereToEatChoosen.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="LaWhereToEatChoosen.Location" type="System.Drawing.Point, System.Drawing">
+    <value>88, 170</value>
+  </data>
+  <data name="LaWhereToEatChoosen.Size" type="System.Drawing.Size, System.Drawing">
+    <value>0, 18</value>
+  </data>
+  <data name="LaWhereToEatChoosen.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;LaWhereToEatChoosen.Name" xml:space="preserve">
+    <value>LaWhereToEatChoosen</value>
+  </data>
+  <data name="&gt;&gt;LaWhereToEatChoosen.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LaWhereToEatChoosen.Parent" xml:space="preserve">
+    <value>gbOrderSummary</value>
+  </data>
+  <data name="&gt;&gt;LaWhereToEatChoosen.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="LaWhereToEat.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="LaWhereToEat.Location" type="System.Drawing.Point, System.Drawing">
+    <value>22, 133</value>
+  </data>
+  <data name="LaWhereToEat.Size" type="System.Drawing.Size, System.Drawing">
+    <value>106, 18</value>
+  </data>
+  <data name="LaWhereToEat.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="LaWhereToEat.Text" xml:space="preserve">
+    <value>WhereToEat : </value>
+  </data>
+  <data name="&gt;&gt;LaWhereToEat.Name" xml:space="preserve">
+    <value>LaWhereToEat</value>
+  </data>
+  <data name="&gt;&gt;LaWhereToEat.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LaWhereToEat.Parent" xml:space="preserve">
+    <value>gbOrderSummary</value>
+  </data>
+  <data name="&gt;&gt;LaWhereToEat.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="LaCrustChoosen.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="LaCrustChoosen.Location" type="System.Drawing.Point, System.Drawing">
+    <value>120, 82</value>
+  </data>
+  <data name="LaCrustChoosen.Size" type="System.Drawing.Size, System.Drawing">
+    <value>0, 18</value>
+  </data>
+  <data name="LaCrustChoosen.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;LaCrustChoosen.Name" xml:space="preserve">
+    <value>LaCrustChoosen</value>
+  </data>
+  <data name="&gt;&gt;LaCrustChoosen.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LaCrustChoosen.Parent" xml:space="preserve">
+    <value>gbOrderSummary</value>
+  </data>
+  <data name="&gt;&gt;LaCrustChoosen.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="LaCrustType.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="LaCrustType.Location" type="System.Drawing.Point, System.Drawing">
+    <value>22, 82</value>
+  </data>
+  <data name="LaCrustType.Size" type="System.Drawing.Size, System.Drawing">
+    <value>86, 18</value>
+  </data>
+  <data name="LaCrustType.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="LaCrustType.Text" xml:space="preserve">
+    <value>CrustType :</value>
+  </data>
+  <data name="&gt;&gt;LaCrustType.Name" xml:space="preserve">
+    <value>LaCrustType</value>
+  </data>
+  <data name="&gt;&gt;LaCrustType.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LaCrustType.Parent" xml:space="preserve">
+    <value>gbOrderSummary</value>
+  </data>
+  <data name="&gt;&gt;LaCrustType.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="LaSizeChoosen.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="LaSizeChoosen.Location" type="System.Drawing.Point, System.Drawing">
+    <value>88, 37</value>
+  </data>
+  <data name="LaSizeChoosen.Size" type="System.Drawing.Size, System.Drawing">
+    <value>0, 18</value>
+  </data>
+  <data name="LaSizeChoosen.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;LaSizeChoosen.Name" xml:space="preserve">
+    <value>LaSizeChoosen</value>
+  </data>
+  <data name="&gt;&gt;LaSizeChoosen.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LaSizeChoosen.Parent" xml:space="preserve">
+    <value>gbOrderSummary</value>
+  </data>
+  <data name="&gt;&gt;LaSizeChoosen.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="LaSize.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="LaSize.Location" type="System.Drawing.Point, System.Drawing">
+    <value>22, 37</value>
+  </data>
+  <data name="LaSize.Size" type="System.Drawing.Size, System.Drawing">
+    <value>51, 18</value>
+  </data>
+  <data name="LaSize.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="LaSize.Text" xml:space="preserve">
+    <value>Size : </value>
+  </data>
+  <data name="&gt;&gt;LaSize.Name" xml:space="preserve">
+    <value>LaSize</value>
+  </data>
+  <data name="&gt;&gt;LaSize.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LaSize.Parent" xml:space="preserve">
+    <value>gbOrderSummary</value>
+  </data>
+  <data name="&gt;&gt;LaSize.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="gbOrderSummary.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial, 12pt</value>
+  </data>
+  <data name="gbOrderSummary.Location" type="System.Drawing.Point, System.Drawing">
+    <value>570, 59</value>
+  </data>
+  <data name="gbOrderSummary.Size" type="System.Drawing.Size, System.Drawing">
+    <value>231, 422</value>
+  </data>
+  <data name="gbOrderSummary.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="gbOrderSummary.Text" xml:space="preserve">
+    <value>OrderSummary</value>
+  </data>
+  <data name="&gt;&gt;gbOrderSummary.Name" xml:space="preserve">
+    <value>gbOrderSummary</value>
+  </data>
+  <data name="&gt;&gt;gbOrderSummary.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;gbOrderSummary.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;gbOrderSummary.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="btnOrder.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial, 9.75pt</value>
+  </data>
+  <data name="btnOrder.Location" type="System.Drawing.Point, System.Drawing">
+    <value>255, 408</value>
+  </data>
+  <data name="btnOrder.Size" type="System.Drawing.Size, System.Drawing">
+    <value>111, 34</value>
+  </data>
+  <data name="btnOrder.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="btnOrder.Text" xml:space="preserve">
+    <value>Order Pizza</value>
+  </data>
+  <data name="&gt;&gt;btnOrder.Name" xml:space="preserve">
+    <value>btnOrder</value>
+  </data>
+  <data name="&gt;&gt;btnOrder.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnOrder.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnOrder.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="btnReset.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial, 9.75pt</value>
+  </data>
+  <data name="btnReset.Location" type="System.Drawing.Point, System.Drawing">
+    <value>401, 408</value>
+  </data>
+  <data name="btnReset.Size" type="System.Drawing.Size, System.Drawing">
+    <value>105, 34</value>
+  </data>
+  <data name="btnReset.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="btnReset.Text" xml:space="preserve">
+    <value>Reset Form</value>
+  </data>
+  <data name="&gt;&gt;btnReset.Name" xml:space="preserve">
+    <value>btnReset</value>
+  </data>
+  <data name="&gt;&gt;btnReset.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnReset.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnReset.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>16, 40</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>833, 493</value>
+  </data>
+  <data name="$this.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Rage Italic, 24pt</value>
+  </data>
+  <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>8, 8, 8, 8</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Pizza Order</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Form1</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>

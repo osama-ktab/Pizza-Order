@@ -1,0 +1,16 @@
+E:\C++ Projects\Pizza Order\obj\Debug\net10.0-windows\Pizza_Order.Form1.resources
+E:\C++ Projects\Pizza Order\obj\Debug\net10.0-windows\Pizza Order.csproj.GenerateResource.cache
+E:\C++ Projects\Pizza Order\obj\Debug\net10.0-windows\Pizza Order.GeneratedMSBuildEditorConfig.editorconfig
+E:\C++ Projects\Pizza Order\obj\Debug\net10.0-windows\Pizza Order.AssemblyInfoInputs.cache
+E:\C++ Projects\Pizza Order\obj\Debug\net10.0-windows\Pizza Order.AssemblyInfo.cs
+E:\C++ Projects\Pizza Order\obj\Debug\net10.0-windows\Pizza Order.csproj.CoreCompileInputs.cache
+E:\C++ Projects\Pizza Order\bin\Debug\net10.0-windows\Pizza Order.exe
+E:\C++ Projects\Pizza Order\bin\Debug\net10.0-windows\Pizza Order.deps.json
+E:\C++ Projects\Pizza Order\bin\Debug\net10.0-windows\Pizza Order.runtimeconfig.json
+E:\C++ Projects\Pizza Order\bin\Debug\net10.0-windows\Pizza Order.dll
+E:\C++ Projects\Pizza Order\bin\Debug\net10.0-windows\Pizza Order.pdb
+E:\C++ Projects\Pizza Order\obj\Debug\net10.0-windows\Pizza Order.dll
+E:\C++ Projects\Pizza Order\obj\Debug\net10.0-windows\refint\Pizza Order.dll
+E:\C++ Projects\Pizza Order\obj\Debug\net10.0-windows\Pizza Order.pdb
+E:\C++ Projects\Pizza Order\obj\Debug\net10.0-windows\Pizza Order.genruntimeconfig.cache
+E:\C++ Projects\Pizza Order\obj\Debug\net10.0-windows\ref\Pizza Order.dll
